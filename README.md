@@ -91,7 +91,7 @@ export default defineConfig([
 - **Types**: See `src/types/database.ts`
 
 ### ⚙️ Local Setup
-1. Clone repo: `git clone https://github.com/jacintjhon-afk/ai-study-assistant.git`
+1. Clone repo: `git clone https://github.com/jacinthjhon-afk/ai-study-assistant.git`
 2. Install: `npm install`
 3. Create `.env.local`:
    ```env
